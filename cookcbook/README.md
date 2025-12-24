@@ -55,7 +55,7 @@ Practice a realistic Git collaboration workflow:
 - screenshot conflict resolution
 - screenshot commit history του branch
 - σύντομο reflection 3–5 προτάσεων:
-  *“What I learned about branches, PRs and conflicts”*
+"Τι έμαθα, τι με δυσκόλεψε, και τι μου άρεσε από το branch workflow, τα PRs και τα conflicts, και γενικά δουλεύωντας με το git και το Github."
 
 ---
 
